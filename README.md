@@ -1,4 +1,4 @@
-# PROJECT 1: NUMBER GUESS GAME
+# NUMBER GUESS GAME
 
 This is a console game developed in the context of the _**Treehouse Python Techdegree**_. This game is often called the 'Number Guessing game' or the 'Pick a number game'. The goal is to guess a number between 1 and 10 with the lowest number of attempts. 
 
